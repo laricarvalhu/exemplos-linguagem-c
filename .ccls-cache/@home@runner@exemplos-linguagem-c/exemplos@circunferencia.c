@@ -6,7 +6,7 @@
 int main() {
   
   float raio, perimetro;
-  printf("\nQual a medida do raio? "); 
+  printf("\nQual a medida do raio?"); 
   scanf("%f", &raio);
   
   perimetro = 2 * PI * raio;
